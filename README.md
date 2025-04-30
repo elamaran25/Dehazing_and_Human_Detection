@@ -1,11 +1,3 @@
-# Dehazing_and_Human_Detection
-Here’s a sample `README.md` file tailored for your project **“Real-time Dehazing and Human Detection”**, covering setup, usage, dependencies, and troubleshooting:
-
----
-
-### 📄 `README.md`
-
-```markdown
 # 🌫️ Real-time Dehazing and Human Detection
 
 This project uses OpenCV, deep learning, and Hugging Face API to perform real-time **video dehazing** and **human/animal detection** using webcam input. It is built for foggy and low-visibility environments where object detection is difficult.
