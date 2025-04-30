@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from huggingface_hub import login
 
 # Authenticate with Hugging Face
-HF_TOKEN = "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"  # Replace with your actual token
+HF_TOKEN = "your_hf_token"  # Replace with your actual token
 login(HF_TOKEN)
 
 # Load YOLO model
